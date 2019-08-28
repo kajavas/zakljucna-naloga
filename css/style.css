@@ -1,0 +1,16 @@
+.container {
+    width: 100%;
+}
+
+.nav-link.active {
+    font-weight: bold;
+}
+
+.nav-link {
+    color: white;
+}
+
+
+.card-image {
+    background-size: cover;
+}
